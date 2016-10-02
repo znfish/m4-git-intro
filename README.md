@@ -108,4 +108,6 @@ Using git and GitHub can be challenging, and you'll inevitably run into issues. 
 To practice using these basic commands, see [exercise-1](exercise-1).
 
 BREAKFASTTTTTTTT
-
+- egggggggggggg
+- yogurtttttttt
+- toasttttttttt
